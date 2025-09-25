@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related PROD APIs"
   contactDetails:
     name: "Raji - Developer"
-    email: "raji@eazybank.com"
+    email: "{cipher}059c485863d36306341a6079b7eb8349a95e62edb54d40c7e41bad269c55fba79dda6cf1f161c519f653e92e34826e60"
   onCallSupport:
     - (777) 777-1234
     - (777) 777-1243
